@@ -1,0 +1,875 @@
+fileFormatVersion: 2
+guid: 955c983aaf3704797b8c9ed08c1a13b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tree_01_Shadows_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 159
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404624aeeaa28411c8e32490459d26ac
+      internalID: 1222748306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 480
+        width: 118
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05d6744fc1ce41c58edf4ad7ef8a6f0
+      internalID: 1309315099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 482
+        width: 59
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102b29c77d8254b0389674e67abccc85
+      internalID: 497079034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 544
+        width: 159
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fbe26c93a2d4854b546a6cbda06768
+      internalID: -1507323507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 529
+        width: 118
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465b4edef368d4b1fa986cd8bcaf8411
+      internalID: 825217995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 482
+        width: 59
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0bfff0cfb344659849d7b181594393
+      internalID: 2103430049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 480
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f79fbef87314c15beda5aeee1c1413
+      internalID: 563345281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_8
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 480
+        width: 43
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8355f2dd0a08d4b1cbe2d53aa14e01ed
+      internalID: -786843314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_9
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 480
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550e4ba1c0d354a109d40c4e8b16b0f5
+      internalID: 618151213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_10
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 480
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7610468ea5fce4531a42afa8c6aa5f78
+      internalID: -1203750224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_11
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 480
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31892973cbdad4cac8b788f6d1881c63
+      internalID: 2017424634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 159
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd00f36551d84d8ebdd3be5541b7153
+      internalID: -1288709656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 209
+        width: 118
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e42e8eb5a8844b5fab9d50f68805ed9
+      internalID: 870709932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 162
+        width: 59
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f55077feac68497ea2203e58591e258
+      internalID: -1153588619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 159
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040593285312d4c6c88290bb08fb1240
+      internalID: -181719847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_16
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 209
+        width: 118
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529c47727c7c84dc68c9c6aedef54d89
+      internalID: -1615088091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 162
+        width: 59
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ee212273fd64e7c852fc17109da807
+      internalID: 342101275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 160
+        width: 43
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99eb8cc5516b490588fd8e931460817
+      internalID: 916991990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 160
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcf58d07cebf46d0b498344a905481f
+      internalID: -1877059707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 160
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7518eea4454a54cd39572d7ef4558f8f
+      internalID: 2067600239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_21
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 160
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e8c8a7dec34c48ac751b52d248ba1
+      internalID: 547582325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_22
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 160
+        width: 43
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b14ef39f69f4ebb997ab5f4469fc70
+      internalID: 1917948079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_23
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 160
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe65055bdf734630bdbb725087299ab
+      internalID: 772181894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_24
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 160
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21ac12d0b40f4608ba22d6c5725d799
+      internalID: -379938197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_25
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 160
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0bd5f40797b496cb61f220767eec6c
+      internalID: -912718331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 125
+        width: 51
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371dd461b52f04a0fab532f63c255dee
+      internalID: 1002253780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_27
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 123
+        width: 31
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be50b4814378744929d8ade3a644c319
+      internalID: -428519229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_28
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2
+        width: 44
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb183305131cc4175aa40605e8b34f5c
+      internalID: -1065552711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_29
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 43
+        width: 105
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf43d6fbec843a29da965234c8b837
+      internalID: -1710244259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_30
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 43
+        width: 105
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199fe118e806047a2b9401fd6cbec820
+      internalID: 469214215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_31
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 80
+        width: 47
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3c87bc282374be3aff7bdb51e0ed3e
+      internalID: 1631972728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_32
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 58
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce401a2c46c1c416e9087d421c431d78
+      internalID: -2123310545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_33
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 58
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2067c6794f3ac4a65baac31e39b9661a
+      internalID: 928977492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_01_Shadows_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 480
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: 0.46928254, y: -0.26400757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c512c864da9554ee985e60b7fe709bbd
+      internalID: 1561185039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 28bc5e31d297441cc86a9ff99b6d0c29
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tree_01_Shadows_0: 1222748306
+      Tree_01_Shadows_1: 1309315099
+      Tree_01_Shadows_10: -1203750224
+      Tree_01_Shadows_11: 2017424634
+      Tree_01_Shadows_12: -1288709656
+      Tree_01_Shadows_13: 870709932
+      Tree_01_Shadows_14: -1153588619
+      Tree_01_Shadows_15: -181719847
+      Tree_01_Shadows_16: -1615088091
+      Tree_01_Shadows_17: 342101275
+      Tree_01_Shadows_18: 916991990
+      Tree_01_Shadows_19: -1877059707
+      Tree_01_Shadows_2: 497079034
+      Tree_01_Shadows_20: 2067600239
+      Tree_01_Shadows_21: 547582325
+      Tree_01_Shadows_22: 1917948079
+      Tree_01_Shadows_23: 772181894
+      Tree_01_Shadows_24: -379938197
+      Tree_01_Shadows_25: -912718331
+      Tree_01_Shadows_26: 1002253780
+      Tree_01_Shadows_27: -428519229
+      Tree_01_Shadows_28: -1065552711
+      Tree_01_Shadows_29: -1710244259
+      Tree_01_Shadows_3: -1507323507
+      Tree_01_Shadows_30: 469214215
+      Tree_01_Shadows_31: 1631972728
+      Tree_01_Shadows_32: -2123310545
+      Tree_01_Shadows_33: 928977492
+      Tree_01_Shadows_4: 825217995
+      Tree_01_Shadows_5: 2103430049
+      Tree_01_Shadows_6: 1561185039
+      Tree_01_Shadows_7: 563345281
+      Tree_01_Shadows_8: -786843314
+      Tree_01_Shadows_9: 618151213
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

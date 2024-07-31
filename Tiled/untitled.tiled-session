@@ -1,0 +1,186 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Maps/Property.tmx",
+    "expandedProjectPaths": [
+        "Tilesets/House Exterior",
+        "Maps",
+        "Tilesets",
+        ".",
+        "Tilesets/Trees",
+        "/Users/phellipe/Desktop/comfy-corners/Assets/Resources"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/Users/phellipe/Desktop/lpc-terrains-repacked 2/terrain-map-v7-repacked.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/phellipe/Desktop/lpc-terrains-repacked/terrain-map-v7-repacked.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/phellipe/Desktop/lpc-terrains-repacked/terrain-map-v7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/phellipe/Desktop/lpc-terrains-repacked/terrain-preview.tmx": {
+            "scale": 0.5769,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 6326.919743456405,
+                "y": 5411.683133992026
+            }
+        },
+        "/Users/phellipe/Desktop/lpc-terrains-repacked/terrain-v7.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/phellipe/Desktop/lpc-terrains/terrain-map-v7.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/phellipe/Desktop/lpc-terrains/terrain-preview.tmx": {
+            "scale": 0.6479,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2917.116839018367,
+                "y": 4448.217317487267
+            }
+        },
+        "/Users/phellipe/Desktop/lpc-terrains/terrain-v7.tsx": {
+            "scaleInDock": 1
+        },
+        "Maps/Property.tmx": {
+            "expandedGroupLayers": [
+                8,
+                19,
+                76,
+                33,
+                31
+            ],
+            "expandedObjectLayers": [
+                75,
+                48,
+                47,
+                76
+            ],
+            "scale": 0.4428,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 2259.4850948509484,
+                "y": 2312.5564588979223
+            }
+        },
+        "Tilesets/House Exterior/CabainExteriorCollection.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/House Exterior/House Exterior Collection.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/House Exterior/House Exterior Map.tmx": {
+            "scale": 2.467361111111111,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 143.87841260906276,
+                "y": 111.86039966225725
+            }
+        },
+        "Tilesets/House Exterior/House Exterior.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Tree01-Collection.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/TreeCollection.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.0883,
+            "scaleInEditor": 0.1
+        },
+        "Tilesets/Trees/Tree01-Collection.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Trees/Tree01-Map.tmx": {
+            "scale": 2.7445,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 94.73492439424304,
+                "y": 121.69794133721989
+            }
+        },
+        "Tilesets/Trees/Tree01-Tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Trees/TreeCollection.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Trees/TreeMap01.tmx": {
+            "scale": 0.7196,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -106.30906058921619,
+                "y": 603.1128404669261
+            }
+        },
+        "Tilesets/Trees/Tree_03.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Trees/Tree_Type1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/terrain-map-v7-repacked.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1.68
+        },
+        "Tilesets/terrain-v7.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/phellipe/Desktop/comfy-corners/Assets/Resources/Sprites/Tilemaps/Outside/Trees/Especial",
+    "last.objectTemplatePath": "/Users/phellipe/Desktop/comfy-corners/Assets/Tiled/Tilesets/Trees",
+    "last.objectTypesPath": "/Users/phellipe/Desktop/comfy-corners/Assets/Tiled/Maps/propertytypes.json",
+    "map.height": 7,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 9,
+    "openFiles": [
+        "Maps/Property.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Tilesets/Trees/Tree01-Collection.tsx",
+        "Maps/Property.tmx",
+        "Tilesets/House Exterior/CabainExteriorCollection.tsx",
+        "Tilesets/Trees/Tree01-Map.tmx",
+        "Tilesets/House Exterior/House Exterior Map.tmx",
+        "Tilesets/House Exterior/House Exterior Collection.tsx",
+        "Tilesets/House Exterior/House Exterior.tsx",
+        "Tilesets/Trees/Tree01-Tileset.tsx",
+        "Tilesets/Tree01-Collection.tsx",
+        "Tilesets/Trees/Tree_Type1.tsx",
+        "Tilesets/TreeCollection.tsx",
+        "Tilesets/Trees/TreeCollection.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}

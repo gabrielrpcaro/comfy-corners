@@ -1,0 +1,30 @@
+[
+    {
+        "color": "#ffa0a0a4",
+        "drawFill": true,
+        "id": 1,
+        "members": [
+        ],
+        "name": "Tree_Type1",
+        "type": "class",
+        "useAs": [
+            "map",
+            "layer",
+            "object",
+            "tile",
+            "tileset",
+            "wangcolor",
+            "wangset",
+            "project"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Teste",
+        "storageType": "string",
+        "type": "enum",
+        "values": [
+        ],
+        "valuesAsFlags": false
+    }
+]

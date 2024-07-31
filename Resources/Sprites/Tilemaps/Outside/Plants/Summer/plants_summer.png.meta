@@ -1,0 +1,989 @@
+fileFormatVersion: 2
+guid: c1bdbda09e1de46a28f7f1a3dc6df711
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plants_summer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 192
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.3095579, y: -12.999992}
+        - {x: -10, y: -13}
+        - {x: -14, y: -5}
+        - {x: 15, y: -5}
+        - {x: 9, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a7edd7b41944b7da788c5424302755
+      internalID: -589942403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 128
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -13}
+        - {x: -14, y: -3}
+        - {x: 15, y: -3}
+        - {x: 11, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a43ab3f11224872bc3a833f9fa9c76
+      internalID: 1836169322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 128
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: -14}
+        - {x: 0, y: -11}
+        - {x: -5, y: -14}
+        - {x: -12, y: -12}
+        - {x: -14, y: -3}
+        - {x: -16, y: 1}
+        - {x: 15, y: 1}
+        - {x: 15, y: -5}
+        - {x: 12, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c181cea60a347548e2b53452216e2b
+      internalID: 1428549655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 107
+        width: 25
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -11}
+        - {x: 1, y: -14}
+        - {x: -4, y: -11}
+        - {x: -14, y: -15}
+        - {x: -10, y: -4}
+        - {x: -16, y: 1}
+        - {x: 15, y: 1}
+        - {x: 12, y: -2}
+        - {x: 15, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24348f5f4df3447e299cf39b8e9836e9
+      internalID: -1667454788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 107
+        width: 27
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -11}
+        - {x: 1, y: -14}
+        - {x: -4, y: -11}
+        - {x: -14, y: -15}
+        - {x: -10, y: -4}
+        - {x: -16, y: 1}
+        - {x: 15, y: 1}
+        - {x: 12, y: -2}
+        - {x: 15, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5e4c6a498f74858b14a6719c0c26bf
+      internalID: 849775984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 107
+        width: 25
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -10}
+        - {x: -1, y: -15}
+        - {x: -7, y: -8}
+        - {x: -15, y: -14}
+        - {x: -13, y: -4}
+        - {x: -16, y: 1}
+        - {x: 15, y: 1}
+        - {x: 11, y: -2}
+        - {x: 15, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4f70cfa79394f579cf53a8ad0a195a
+      internalID: 1000219632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_6
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 143
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9402766d174ad4baba7fe552136671a9
+      internalID: 1899791586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 142
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01172f134e5324a339d6f796f675d308
+      internalID: 700635428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 29
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa972accda974e79821ed1a92b7810d
+      internalID: -2022277089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 29
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c998c2963883d4583b81bd4c1817819c
+      internalID: -656527151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 34
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.3095579, y: -12.999992}
+        - {x: -10, y: -13}
+        - {x: -14, y: -5}
+        - {x: 15, y: -5}
+        - {x: 9, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b871d8c0e33476b876e989c6d3f916
+      internalID: 1567591410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 55
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -13}
+        - {x: -14, y: -3}
+        - {x: 15, y: -3}
+        - {x: 11, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437920e35c6b34075bbb5a9f54316336
+      internalID: 2093699517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 87
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: -14}
+        - {x: 0, y: -11}
+        - {x: -5, y: -14}
+        - {x: -12, y: -12}
+        - {x: -14, y: -3}
+        - {x: -16, y: 1}
+        - {x: 15, y: 1}
+        - {x: 15, y: -5}
+        - {x: 12, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4cc76b392cd451c81a70e3d8095f36
+      internalID: -1952659669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 54
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -11}
+        - {x: 1, y: -14}
+        - {x: -4, y: -11}
+        - {x: -14, y: -15}
+        - {x: -10, y: -4}
+        - {x: -16, y: 1}
+        - {x: 15, y: 1}
+        - {x: 12, y: -2}
+        - {x: 15, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33548b160cd74a5f98df9f50c5db79d
+      internalID: -771654862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 54
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -11}
+        - {x: 1, y: -14}
+        - {x: -4, y: -11}
+        - {x: -14, y: -15}
+        - {x: -10, y: -4}
+        - {x: -16, y: 1}
+        - {x: 15, y: 1}
+        - {x: 12, y: -2}
+        - {x: 15, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2d622697e5b4dbb97c51bb32c5440a
+      internalID: 635249531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 54
+        width: 26
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -10}
+        - {x: -1, y: -15}
+        - {x: -7, y: -8}
+        - {x: -15, y: -14}
+        - {x: -13, y: -4}
+        - {x: -16, y: 1}
+        - {x: 15, y: 1}
+        - {x: 11, y: -2}
+        - {x: 15, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3a088256e47400ba7b63f76924db23
+      internalID: 1834722646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 70
+        width: 26
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2061f83c4319d47c9906a41b3e5349d6
+      internalID: -1389684256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_23
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 69
+        width: 25
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -11.5}
+        - {x: -8, y: -2.5}
+        - {x: 9, y: -2.5}
+        - {x: 9, y: -11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a443707529e442dbdcad584d5710ad
+      internalID: 743692290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 73
+        width: 13
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -11.5}
+        - {x: -8, y: -2.5}
+        - {x: 9, y: -2.5}
+        - {x: 9, y: -11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597965c42b38044249971b86b667c090
+      internalID: 230676188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_25
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 73
+        width: 12
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -11.5}
+        - {x: -8, y: -2.5}
+        - {x: 9, y: -2.5}
+        - {x: 9, y: -11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4767be6c9de574389a4bf878c8a6a9ec
+      internalID: -73297412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 40
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -24.5}
+        - {x: -9, y: -16.5}
+        - {x: 8, y: -16.5}
+        - {x: 8, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38e9500987c4491ea9a35369fb2e546
+      internalID: -619466391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_27
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 39
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -24.5}
+        - {x: -10, y: -17.5}
+        - {x: 8, y: -17.5}
+        - {x: 8, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235b13b5d02cf49d690abe44f9a055da
+      internalID: -1281221514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_28
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 42
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -24.5}
+        - {x: -8, y: -17.5}
+        - {x: 7, y: -16.5}
+        - {x: 8, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0c4009b779d40599e8a75a39547274
+      internalID: 475263639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_29
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 42
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dd31608a2d04e18bf4a6cea6bafa26
+      internalID: -918310286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_30
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 7
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a632e117916a453883e3a280db87180
+      internalID: 957078330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 28
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f6099849f274094b7d578ddccfb7cc
+      internalID: 57260748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 109
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4031b35c2a5224db1bbbf0036dfbed88
+      internalID: -236763540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 109
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9174c5ad2f1a4257b72a7058f1f876f
+      internalID: -1625680473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 109
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a295f9d439824897b168efacb5b376f
+      internalID: -43294355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_12
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 111
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fca063615d014813a0ea14b3a261574
+      internalID: -1718571415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_13
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 110
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d145d92612eb44476bbfd8f4117d61c8
+      internalID: 1828907787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 6
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cdab038cb624023bf6ddf53b6275d9
+      internalID: -1540193181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_32
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 10
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89319f533ccad4abaaeb8825a5a902b8
+      internalID: -635247276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_summer_33
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 10
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f462d631eb94269be1fb8ea5c04ec6
+      internalID: 103345606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      plants_summer_0: -589942403
+      plants_summer_1: 1836169322
+      plants_summer_10: -1625680473
+      plants_summer_11: -43294355
+      plants_summer_12: -1718571415
+      plants_summer_13: 1828907787
+      plants_summer_14: -2022277089
+      plants_summer_15: -656527151
+      plants_summer_16: 1567591410
+      plants_summer_17: 2093699517
+      plants_summer_18: -1952659669
+      plants_summer_19: -771654862
+      plants_summer_2: 1428549655
+      plants_summer_20: 635249531
+      plants_summer_21: 1834722646
+      plants_summer_22: -1389684256
+      plants_summer_23: 743692290
+      plants_summer_24: 230676188
+      plants_summer_25: -73297412
+      plants_summer_26: -619466391
+      plants_summer_27: -1281221514
+      plants_summer_28: 475263639
+      plants_summer_29: -918310286
+      plants_summer_3: -1667454788
+      plants_summer_30: 957078330
+      plants_summer_31: -1540193181
+      plants_summer_32: -635247276
+      plants_summer_33: 103345606
+      plants_summer_4: 849775984
+      plants_summer_5: 1000219632
+      plants_summer_6: 1899791586
+      plants_summer_7: 700635428
+      plants_summer_8: 57260748
+      plants_summer_9: -236763540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
